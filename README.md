@@ -16,3 +16,5 @@ Haagse Hogeschool
 # Inhoudsopgave
 
 ## Datacamp Courses
+
+- [Introduction_to_Python.pdf](https://github.com/Anassc98/Minor-Data-Science-Portfolio/files/10308358/Introduction_to_Python.pdf)
