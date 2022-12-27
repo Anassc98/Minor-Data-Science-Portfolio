@@ -29,3 +29,11 @@ Haagse Hogeschool
 - [Model Validation In Python](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Datacamp%20certificates/Model_Validation_In_Python.pdf)
 - [Statistical Thinking In Python Part1](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Datacamp%20certificates/Statistical_Thinking_In_Python_Part1.pdf)
 - [Machine Learning For Timeseries Data In Python](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Datacamp%20certificates/Timeseries_Python.pdf)
+
+## Reflection and evaluation
+
+[Reflection on own contribution to the project]
+
+[Reflection on own learning objectives]
+
+[Evaluation on the group project as a whole]
