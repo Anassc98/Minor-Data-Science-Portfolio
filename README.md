@@ -18,7 +18,7 @@ Haagse Hogeschool
 ## Datacamp Courses
 
 - [Introduction to python](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Datacamp%20certificates/Introduction_to_Python.pdf)
-- [Intermediate](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Datacamp%20certificates/Intermediate_Python.pdf)
+- [Intermediate python](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Datacamp%20certificates/Intermediate_Python.pdf)
 - [Introduction to Data Visualization with Matplotlib](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Datacamp%20certificates/Python_Matplotlib.pdf)
 - [Cleaning Data In Python](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Datacamp%20certificates/Cleaning_Data_In_Python.pdf)
 - [Data Manipulation With pandas](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Datacamp%20certificates/Data_Manipulation_with_pandas.pdf)
