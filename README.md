@@ -8,10 +8,7 @@ Haagse Hogeschool
 
 # Begeleiders
 
-Jeroen Vuurens
-
-Tony Andrioli
-
-Karen Smit
-
-Edwin van Noort
+- Jeroen Vuurens
+- Tony Andrioli
+- Karen Smit
+- Edwin van Noort
