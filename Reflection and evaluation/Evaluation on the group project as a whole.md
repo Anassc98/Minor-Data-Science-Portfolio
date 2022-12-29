@@ -1,1 +1,13 @@
+# Evaluation on the group project as a whole
 
+De minor begon met een kennismaken met mijn begeleider. Later op de dag maakte ik kennis met mijn groepsgenoten. Dit hadden we gedaan via de mail. Na een goede kennismakingsgesprek is er een discord groep gemaakt waar we alle project gerelateerde informatie konden delen met elkaar. Dit zorgde ervoor dat we gemotiveerd konden starten aan dit project.
+
+Tijdens de beginfase hebben we een meeting gehouden om de afspraken met elkaar te bespreken. een van deze afspraken is dat we altijd optijd zijn en optijd aangeven of je aanwezig zal zijn. In het begin was het best wel moeizaam, omdat we nog niet wisten waar iedereen goed in was en waar de sterkte punten liggen, maar dat ging snel voorbij. Dit komt omdat we elke dag een meeting hadden om 10 uur.
+
+In het begin van het project duurde het even voor we met goede resultaten kwamen, omdat we niet zo goed wisten waar we moesten beginnen met de foodboost project. We wisten nog niet precies wat we wilden doen met de dataset die we hadden gekregen. Dus we besloten gesprekken in te plannen met de begeleiders om te vragen naar hulp en misschien suggesties. Het probleem wat we hadden is dat we te veel gingen switchen van ideeën, waardoor we constant vast liepen. Naarmate de tijd werden we allemaal wat sterker in programmeren waardoor we elkaar kon helpen waar nodig. Op deze manier begonnen de resultaten vanzelf te komen. Het was fijn dat de begeleiders altijd open stonden om ons te helpen want dat was van grote waarde.
+
+Verder hebben we de takenverdeling goed aangepakt. Iedereen deed waar hij goed in is en hielp waar nodig. Ook zorgden we ervoor dat iedereen een beetje programmeerde zodat we onze kwaliteit in programmeren konden versterken. Als laatst gaven we elkaar ook steeds updates zodat we wisten dat we niet achterliepen.
+
+Tijdens het project nam ik niet echt de leiding. Ik wacht meestal tot ik een taak krijg van de rest en er dan mee aan de slag ga. Ik hielp wel vaak waar nodig is en had mijn taken gewoon altijd af. Als ik vast liep zorgde ik ervoor dat ik mijn groepsgenoten om hulp vroeg.
+
+Iets wat ik zal meenemen met mijn volgende samenwerking is dat ik meer aan het woord wil komen. Soms heb ik goede ideeën maar ik laat niks weten omdat ik niet weet wat de anderen hiervan zullen vinden. Ook zal ik meer taken op me nemen. Zo krijg ik veel meer voor elkaar en draag ik meer bij aan het resultaat. Al met al vond ik dit een prettige samenwerking.
