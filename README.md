@@ -42,7 +42,7 @@ Haagse Hogeschool
 
 - [Task Definition](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Research%20project/Task%20definition.md)
 
-- [Evaluation]
+- [Evaluation](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Research%20project/Evaluation.md)
 
 - [Conclusions]
 
