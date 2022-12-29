@@ -40,7 +40,7 @@ Haagse Hogeschool
 
 ## Research project
 
-- [Task Definition]
+- [Task Definition](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Research%20project/Task%20definition.md)
 
 - [Evaluation]
 
