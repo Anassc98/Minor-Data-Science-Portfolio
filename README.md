@@ -46,4 +46,4 @@ Haagse Hogeschool
 
 - [Conclusions](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Research%20project/Conclusions.md)
 
-- [Planning]
+- [Planning](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Research%20project/Planning.md)
