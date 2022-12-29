@@ -37,3 +37,5 @@ Haagse Hogeschool
 [Reflection on own learning objectives](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Reflection%20and%20evaluation/Reflection%20on%20own%20learning%20objectives.md)
 
 [Evaluation on the group project as a whole](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Reflection%20and%20evaluation/Evaluation%20on%20the%20group%20project%20as%20a%20whole.md)
+
+# Research project
