@@ -47,3 +47,11 @@ Haagse Hogeschool
 - [Conclusions](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Research%20project/Conclusions.md)
 
 - [Planning](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Research%20project/Planning.md)
+
+## Predictive Analytics
+
+- [Selecting a model]
+- [Configuring a model]
+- [Training a model]
+- [Evaluating a model]
+- [Visualizing the outcome of a model]
