@@ -9,6 +9,6 @@ Voordat we waren begonnen met het zoeken naar de juiste model die past bij het p
 - DecisionTree
 - Random Forest
 
-Ik heb me individueel bezig gehouden met de K Nearest Neighbours model. Ik was begonnen met een literatuuronderzoek naar dit model. Verder heb ik ook tutorials gevolgd op youtube om dit model werkend te krijgen. Hieronder zie je de code van de K Nearest Neighbour model.
+Ik heb me individueel bezig gehouden met de K Nearest Neighbours model. Ik was begonnen met een literatuuronderzoek naar dit model. Verder heb ik ook tutorials gevolgd op youtube om dit model werkend te krijgen. Hieronder zie je de code van de K Nearest Neighbours model.
 
-[K Nearest Neighbour]()
+[K Nearest Neighbours]()
