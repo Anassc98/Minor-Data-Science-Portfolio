@@ -33,19 +33,14 @@ Haagse Hogeschool
 ## Reflection and evaluation
 
 - [Reflection on own contribution to the project](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Reflection%20and%20evaluation/Reflection%20on%20own%20contribution%20to%20the%20project.md)
-
 - [Reflection on own learning objectives](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Reflection%20and%20evaluation/Reflection%20on%20own%20learning%20objectives.md)
-
 - [Evaluation on the group project as a whole](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Reflection%20and%20evaluation/Evaluation%20on%20the%20group%20project%20as%20a%20whole.md)
 
 ## Research project
 
 - [Task Definition](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Research%20project/Task%20definition.md)
-
 - [Evaluation](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Research%20project/Evaluation.md)
-
 - [Conclusions](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Research%20project/Conclusions.md)
-
 - [Planning](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Research%20project/Planning.md)
 
 ## Predictive Analytics
@@ -54,4 +49,4 @@ Haagse Hogeschool
 - [Configuring a model](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Predictive%20Analysis/Configuring%20a%20model.md)
 - [Training a model](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Predictive%20Analysis/Training%20a%20model.md)
 - [Evaluating a model](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Predictive%20Analysis/Evaluating%20a%20model.md)
-- [Visualizing the outcome of a model]()
+- [Visualizing the outcome of a model](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Predictive%20Analysis/Visualizing%20the%20outcome%20of%20a%20model.md)
