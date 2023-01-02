@@ -50,8 +50,8 @@ Haagse Hogeschool
 
 ## Predictive Analytics
 
-- [Selecting a model]
-- [Configuring a model]
-- [Training a model]
-- [Evaluating a model]
-- [Visualizing the outcome of a model]
+- [Selecting a model](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Predictive%20Analysis/Selecting%20a%20model)
+- [Configuring a model]()
+- [Training a model]()
+- [Evaluating a model]()
+- [Visualizing the outcome of a model]()
