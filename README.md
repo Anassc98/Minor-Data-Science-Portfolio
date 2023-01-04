@@ -55,4 +55,4 @@ Haagse Hogeschool
 
 - [Introduction of the subject field]()
 - [Literature Research]()
-- [Explanataion of Terminology, Jargon and Definitions]()
+- [Explanataion of Terminology, Jargon and Definitions](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Domain%20Knowledge/Explanation%20of%20Terminology%2C%20jargon%20and%20definitions.md)
