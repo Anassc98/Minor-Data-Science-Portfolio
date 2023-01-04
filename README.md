@@ -50,3 +50,9 @@ Haagse Hogeschool
 - [Training a model](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Predictive%20Analysis/Training%20a%20model.md)
 - [Evaluating a model](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Predictive%20Analysis/Evaluating%20a%20model.md)
 - [Visualizing the outcome of a model](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Predictive%20Analysis/Visualizing%20the%20outcome%20of%20a%20model.md)
+
+## Domain Knowledge
+
+- [Introduction of the subject field]()
+- [Literature Research]()
+- [Explanataion of Terminology, Jargon and Definitions]()
