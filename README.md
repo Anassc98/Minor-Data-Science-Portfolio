@@ -6,13 +6,6 @@ Studentnummer: 17037190
 
 Haagse Hogeschool
 
-## Begeleiders
-
-- Jeroen Vuurens
-- Tony Andrioli
-- Karen Smit
-- Edwin van Noort
-
 # Inhoudsopgave
 
 ## Datacamp Courses
@@ -59,4 +52,5 @@ Haagse Hogeschool
 
 ## Communication
 
-[Externe presentatie week 10](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Presentaties/presentatie%20groep%206%20week%2010.pptx)
+- [Externe presentatie week 10](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Presentaties/presentatie%20groep%206%20week%2010.pptx)
+- 
