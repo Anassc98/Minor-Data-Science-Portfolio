@@ -2,7 +2,7 @@
 
 Tijdens het verloop van dit project is er gebruikt gemaakt van een aantal termen, jargons en definties met betrekking tot Data Science. Voor verduidelijking bij het begrijpen van dit project heb ik de begrippen op een rijtje gezet.
 
-## Algemene begrippen
+## begrippen
 
 - Machine Learning:
 
@@ -15,8 +15,6 @@ Een algoritme is een reeks stappen of instructies die in een bepaalde volgorde w
 - Reinforcement learning:
 
 Reinforcement learning is een manier van machine learning waarbij een agent (een softwareprogramma of robot) leert te werken met zijn omgeving om een beloning te maximaliseren. In Reinforcement learning ontvangt de agent beloningen of straffen voor zijn acties en past hij zijn gedrag aan om de beloning te maximaliseren.
-
-## Project begrippen
 
 - Neurale Netwerken:
 
