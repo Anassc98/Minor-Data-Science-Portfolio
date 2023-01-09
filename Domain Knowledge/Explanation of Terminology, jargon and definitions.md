@@ -2,7 +2,7 @@
 
 Tijdens het verloop van dit project is er gebruikt gemaakt van een aantal termen, jargons en definties met betrekking tot Data Science. Voor verduidelijking bij het begrijpen van dit project heb ik de begrippen op een rijtje gezet.
 
-## begrippen
+## Begrippen
 
 - Machine Learning:
 
