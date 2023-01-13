@@ -14,7 +14,7 @@ Verder hebben we ons nodig gehouden aan de volgende planning:
 
 ## Individueel
 
-Ik heb samen met Brian het scrumbord bijgehouden. Dit komt omdat ik al in voorgaande projecten met trello heb gewerkt dus ik wist hoe dit programma in elkaar zat. 
+Ik heb me vooral gehouden aan de taken die me waren toegewezen in trello. Dit komt omdat ik al in voorgaande projecten met trello heb gewerkt dus ik wist hoe dit programma in elkaar zat. 
 Verder ben ik bij elke meeting aanwezig geweest en heb ik deelgenomen aan de begeleidingsgesprekken van vrijdag.
 
 [Scrumbord](https://trello.com/b/HudQrw3k/project-containers)
