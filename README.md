@@ -52,6 +52,7 @@ Haagse Hogeschool
 - [Externe presentatie week 10](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Presentaties/presentatie%20groep%206%20week%2010.pptx)
 - [Interne presentatie week 10](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Presentaties/Interne%20Presentatie%20week%2010.pptx)
 - [Interne presentatie week 11](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Presentaties/Presentatie%20week%2011.pptx)
+- [Interne presentatie week 18]()
 
 ### Paper
 
