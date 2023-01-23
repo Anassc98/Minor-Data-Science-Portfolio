@@ -24,7 +24,7 @@ Haagse Hogeschool
 - [Machine Learning For Timeseries Data In Python](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Datacamp%20certificates/Timeseries_Python.pdf)
 - [Joining data with pandas](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Datacamp%20certificates/Joining_Data_with_pandas.pdf)
 - [Data science toolbox part 1](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Datacamp%20certificates/data_science_toolbox_part1.pdf)
-- [Data science toolbox part 2]()
+- [Data science toolbox part 2](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Datacamp%20certificates/data_science_toolbox_part2.pdf)
 
 ## Research project
 
