@@ -22,6 +22,9 @@ Haagse Hogeschool
 - [Model Validation In Python](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Datacamp%20certificates/Model_Validation_In_Python.pdf)
 - [Statistical Thinking In Python Part1](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Datacamp%20certificates/Statistical_Thinking_In_Python_Part1.pdf)
 - [Machine Learning For Timeseries Data In Python](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Datacamp%20certificates/Timeseries_Python.pdf)
+- [Joining data with pandas](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Datacamp%20certificates/Joining_Data_with_pandas.pdf)
+- [Data science toolbox part 1]()
+- [Data science toolbox part 2]()
 
 ## Research project
 
