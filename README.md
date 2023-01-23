@@ -58,4 +58,4 @@ Haagse Hogeschool
 
 ### Paper
 
-[Paper bijdrage](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Paper/Paper%20bijdrage.md)
+- [Paper bijdrage](https://github.com/Anassc98/Minor-Data-Science-Portfolio/blob/main/Paper/Paper%20bijdrage.md)
