@@ -6,5 +6,5 @@ We zijn dus aan de slag gegaan met 2 modellen. Een Reinforcement Learning model 
 
 Helaas is het zo dat het LP-model 45% van de gevallen een oplossing uit het infeasible gebied weergeeft, waardoor het gebruik ervan minder aantrekkelijk wordt. De resultaten van het onderzoek naar de mogelijkheid en het effect van het gebruik van data science om containeroverslagprocessen in havens te optimaliseren, tonen daarom aan dat RL-modellen consistenter zijn dan de huidige LP-modellen.
 
--[parameters]()
--[Resultaat]()
+- [parameters]()
+- [Resultaat]()
