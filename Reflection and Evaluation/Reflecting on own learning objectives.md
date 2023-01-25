@@ -1,6 +1,6 @@
 # Reflecting on own learning objectives
 
-In de beginfase van deze minor had ik geen ervaring met python. Tijdens mijn major heb ik vooral geprogrammeerd java en dat in mindere maten. Het duurde dus wel even voor ik het snapte dus ik was daarom ook benieuwd naar hoe snel ik het zou oppakken.
+In de beginfase van deze minor had ik geen ervaring met python. Tijdens mijn major heb ik vooral geprogrammeerd in java en dat in mindere maten. Het duurde dus wel even voor ik het snapte dus ik was daarom ook benieuwd naar hoe snel ik het zou oppakken.
 
 Ik vond het in het begin lastig om het te begrijpen. Ik begreep niet zo goed waar de modellen voor diende. Het ontwikkelen van deze modellen verliep ook moeizaam omdat ik niet wist wat de codes precies deden en wat ze betekende. Na verloop van de tijd leerde ik het steeds meer door de lessen en de courses op datacamp. De modellen werden ook steeds duidelijker. Datacamp was van grote waarde tijdens deze minor omdat je daar van alles over de codes leert en het je stap voor stap meeneemt. Verder was het ook steeds leuker om te doen omdat je het dan begrijpt. Ik vond het ook fijn dat er meerdere courses waren. Op deze manier leerde je niet alleen 1 methode, maar ook meerdere modellen. Sommige waren wel moeilijker dan de andere, maar na goed lezen en luisteren kwam ik er toch uit.
 
